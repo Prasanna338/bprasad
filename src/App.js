@@ -21,7 +21,7 @@ function App() {
             marginLeft: "140px", // Drawer width
             display: "flex",
             justifyContent: "left",
-            alignItems: "left",
+            alignItems: "left"
             height: "calc(100vh - 64px)", // Full viewport height minus AppBar height
           }}
         >
